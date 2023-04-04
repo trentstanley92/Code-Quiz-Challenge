@@ -83,34 +83,6 @@ var questions = [
       ],
       answer: "while (i <= 10)"
     },
-    {
-      title:"",
-      choices: [
-        "",
-        "",
-        "",
-        ""
-    ],
-      answer: ""
-    },
-    {
-      title:"",
-      choices: [
-        "",
-        "", 
-        "", 
-        ""
-    ],
-      answer: ""
-    },
-    {
-      title: "",
-      choices: [
-        "",
-        "",
-    ],
-      answer: ""
-    },
   ];
 // quiz state variables
 var currentQuestionIndex = 0;
